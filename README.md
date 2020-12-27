@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there ☕
+Estou sem ideia do que colocar aqui, mas eu gosto de **Star Wars**.
 
-<!--
-**FerreiraWalter/FerreiraWalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
+Meu nome é **Walter Ferreira**, tenho **18 anos**, atualmente moro em **Aracaju-SE**.
+Estou cursando o **3º Periodo de Ciência da Computação** na **Universidade Tiradentes(UNIT)**.
 
-Here are some ideas to get you started:
+Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens** que estou aprendendo:
+  * PYTHON
+  * JAVA
+  * C++
+  
+## Redes Sociais:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦[Twitter](https://twitter.com/walter_chuno) |
+📷[Instagram](https://www.instagram.com/walter.chuno/)
+
+
+## Informações:
+
+![Walter's github stats](https://github-readme-stats.vercel.app/api?username=FerreiraWalter&show_icons=true&theme=dracula)
