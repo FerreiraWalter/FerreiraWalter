@@ -18,4 +18,4 @@ Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens**
 
 ## Informações:
 
-![Walter's github stats](https://github-readme-stats.vercel.app/api?username=FerreiraWalter&show_icons=true&theme=dracula)
+![Walter's github stats](https://github-readme-stats.vercel.app/api?username=FerreiraWalter&show_icons=true&theme=dark)
