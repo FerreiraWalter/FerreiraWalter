@@ -13,7 +13,8 @@ Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens**
 ## Redes Sociais:
 
 🐦[Twitter](https://twitter.com/walter_chuno) |
-📷[Instagram](https://www.instagram.com/walter.chuno/)
+📷[Instagram](https://www.instagram.com/walter.chuno/) |
+✉️ wferreiraramosjunior@gmail.com
 
 
 ## Informações:
