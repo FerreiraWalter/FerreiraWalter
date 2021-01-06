@@ -7,8 +7,8 @@ Meu nome é **Walter Ferreira**, tenho **18 anos**, atualmente moro em **Aracaju
  No meu tempo livre gosto de tocar **violão** ou praticar algum **esporte**.
 
 Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens** que estou aprendendo:
-  * PYTHON
-  * JAVA
+  * [PYTHON ](https://github.com/FerreiraWalter/Python-Padawan)
+  * [JAVA](https://github.com/FerreiraWalter/Java4Me)
   * C++
   
 ## Redes Sociais:
