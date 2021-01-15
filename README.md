@@ -10,7 +10,6 @@ Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens**
   * [PYTHON ](https://github.com/FerreiraWalter/Python-Padawan)
   * [JAVA](https://github.com/FerreiraWalter/Java4Me)
   * PHP
-  * C++
   
 ## Redes Sociais:
 
