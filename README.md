@@ -17,8 +17,3 @@ Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens**
 📷[Instagram](https://www.instagram.com/walter.chuno/) |
 ✉️ wferreiraramosjunior@gmail.com |
 🐦[Twitter](https://twitter.com/walter_chuno)
-
-
-## Informações:
-
-![Walter's github stats](https://github-readme-stats.vercel.app/api?username=FerreiraWalter&show_icons=true&theme=dark)
