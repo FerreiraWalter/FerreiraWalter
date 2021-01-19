@@ -16,4 +16,4 @@ Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens**
 💬 [Whatsapp](wa.me/5579996928345) |
 📷 [Instagram](https://www.instagram.com/walter.chuno/) |
 ✉️ wferreiraramosjunior@gmail.com |
-🐦 [Twitter](https://twitter.com/walter_chuno)
+🐦[Twitter](https://twitter.com/walter_chuno)
