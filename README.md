@@ -1,19 +1,17 @@
-## System.out.println("Hi there ☕")
-Estou sem ideia do que colocar aqui, mas eu gosto de **Star Wars**.
+# Welcome👋
+<img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/bob_esponja.gif">
 
-## Sobre mim:
-Meu nome é **Walter Ferreira**, tenho **18 anos**, atualmente moro em **Aracaju-SE**.
- Estou cursando o **3º Periodo de Ciência da Computação** na **Universidade Tiradentes(UNIT)**.
- No meu tempo livre gosto de tocar **violão** ou praticar algum **esporte**.
+## I'm Walter!
+💻Computer Science (3/9)
 
-Me interesso bastante por **Programação**,e aqui estão algumas **Linguagens** que estou aprendendo:
-  * [PYTHON ](https://github.com/FerreiraWalter/Python-Padawan)
-  * [JAVA](https://github.com/FerreiraWalter/Java4Me)
-  * PHP
-  
-## Redes Sociais:
+🚀Jr backend developer
 
-💬 [Whatsapp](wa.me/5579996928345) |
-📷 [Instagram](https://www.instagram.com/walter.chuno/) |
-✉️ wferreiraramosjunior@gmail.com |
-🐦[Twitter](https://twitter.com/walter_chuno)
+🏡I currently live in **Aracaju-SE**
+## Find me elsewhere🌎
+ [![instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wltrdev/)](www.instagram.com/wltrdev) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+79+996928345&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wferreiraramosjunior@gmail.com)](mailto:wferreiraramosjunior@gmail.com)
+
+-  Thanks for  visiting.
+
+-  Enjoy it!!  \o/
+
+
