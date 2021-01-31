@@ -4,7 +4,7 @@
 ## I'm Walter!
 🎓Computer Science (3/9)
 
-🚀Jr Back-end developer
+🚀Back-end developer **(trying)**
 
 🏡I currently live in **Aracaju-SE**
 ## Find me elsewhere🌎
