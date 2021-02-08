@@ -2,7 +2,7 @@
 <img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/gif.gif">
 
 ## I'm Walter!
-🎓 Computer Science (3/9) - Universidade Tiradentes
+🎓 Computer Science (3/9)
 
 🚀 Back-end developer **(trying)**
 
