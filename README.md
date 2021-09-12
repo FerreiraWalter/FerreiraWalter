@@ -4,7 +4,7 @@
 ## I'm Walter!
 🎓 Computer Science (4/9)
 
-🚀 Back-end developer **(trying)**
+🚀 Back-end developer at GrupoSoma
 
 🏡 I currently live in **Aracaju-SE**
 ## Find me elsewhere🌎
