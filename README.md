@@ -2,7 +2,7 @@
 <img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/github.gif">
 
 ## I'm Walter!
-🎓 Computer Science (3/9)
+🎓 Computer Science (4/9)
 
 🚀 Back-end developer **(trying)**
 
