@@ -1,5 +1,5 @@
 # Welcome👋
-<img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/github.gif">
+<img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/gif2.gif">
 
 ## I'm Walter!
 🎓 Computer Science (4/9)
