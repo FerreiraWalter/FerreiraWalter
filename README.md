@@ -2,7 +2,7 @@
 <img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/gif2.gif">
 
 ## I'm Walter!
-🎓 Computer Science (4/9)
+🎓 Computer Science (6/9)
 
 🚀 Back-end developer at GrupoSoma
 
@@ -20,3 +20,4 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+[![@walterjunior's Holopin board](https://holopin.me/walterjunior)](https://holopin.io/@walterjunior)
