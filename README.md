@@ -2,9 +2,9 @@
 <img align="right"  width="400"  height="400"  src="https://github.com/FerreiraWalter/FerreiraWalter/blob/main/gif2.gif">
 
 ## I'm Walter!
-🎓 Computer Science (6/9)
+🎓 Computer Science (7/9)
 
-🚀 Back-end developer at GrupoSoma
+🚀 Fullstack developer at GrupoSoma
 
 🏡 I currently live in **Aracaju-SE**
 ## Find me elsewhere🌎
