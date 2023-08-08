@@ -4,7 +4,7 @@
 ## I'm Walter!
 🎓 Computer Science (7/9)
 
-🚀 Fullstack developer at GrupoSoma
+🚀 Fullstack developer at Ubots
 
 🏡 I currently live in **Aracaju-SE**
 ## Find me elsewhere🌎
