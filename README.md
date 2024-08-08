@@ -1,25 +1,28 @@
-██╗██╔╝██╔══╝██║     ██║     ██╔═══██╗
- ████╔╝   ██║   ██║
- ██╔██╗ ██╔══╝  ██║     ██║     ██║   ██║
- ██╔╝
+
+<div style="display: flex;" >
+	<h1> Hi! <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Dragon Face" width="35" height="35" />
+</h1>
+
+</div>
 
       <div>
              <ul>
-		  <li>🫡 Hey, I’m Walter Ferreira</li>
-    	  <li>💻 Fullstack Developer</li>
-		  <li>🎓 Computer Scientist</li>
+		    <li>🇼 I’m Walter Ferreira, 🗓️ 22 years</li>
+    	    <li>💻 Fullstack Developer</li>
+		    <li>🎓 Computer Scientist</li>
              </ul>
       </div>
 
       <div>
              <ul>
-		  <li>👋 Golang, Node, React </li>
+		    <li>🌐 Golang, Node, React</li>
+    	    <li> 🏖, ⛰️, ⚽, 🏄</li>
              </ul>
       </div>
-  ### 🌎 Find me elsewhere:
 
-
-[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/walter_chuno/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/walter_chuno) [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-ferreira-161b871b9/)
-
-
+<div>
+ <p>[ 💼 LinkedIn ] {>  https://www.linkedin.com/in/walter-ferreira-161b871b9/ </p>
+	<p>[ 🐦 Twitter ] {>  https://twitter.com/walter_chuno </p>
+<p>	[ 📷 instagram ] {>  https://www.instagram.com/walter_chuno/</p>
+</div>
 <img src="https://holopin.me/walterjunior" alt="ilustração de um computador" min-width="400px" width="1200px" align="start">
