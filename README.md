@@ -9,13 +9,13 @@
              <ul>
 		    <li>🇼 I’m Walter Ferreira, 🗓️ 22 years</li>
     	    <li>💻 Fullstack Developer</li>
-		    <li>🎓 Computer Scientist</li>
+		    <li>🎓 Computer Science Bachelor's Degree (2020.02 - 2024.06) ️</li>
              </ul>
       </div>
 
       <div>
              <ul>
-		    <li>🌐 Golang, Node, React</li>
+		    <li>🌐 Golang, NodeJs, React</li>
     	    <li> 🏖, ⛰️, ⚽, 🏄</li>
              </ul>
       </div>
