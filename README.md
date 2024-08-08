@@ -22,7 +22,7 @@
 
 <div>
  <p>[ 💼 LinkedIn ] {>  https://www.linkedin.com/in/walter-ferreira-161b871b9/ </p>
-	<p>[ 🐦 Twitter ] {>  https://twitter.com/walter_chuno </p>
+	<p>[ 🐦 Twitter ] {>  https://twitter.com/walter_chuno/ </p>
 <p>	[ 📷 instagram ] {>  https://www.instagram.com/walter_chuno/</p>
 </div>
 <img src="https://holopin.me/walterjunior" alt="ilustração de um computador" min-width="400px" width="1200px" align="start">
