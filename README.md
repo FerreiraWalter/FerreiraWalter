@@ -7,7 +7,7 @@
 
       <div>
              <ul>
-		    <li>🇼 I’m Walter Ferreira, 🗓️ 23 years</li>
+		    <li>I’m Walter Ferreira, 🗓️ 23 years</li>
     	    <li>💻 Fullstack Developer</li>
 		    <li>🎓 Computer Science Bachelor's Degree (2020.02 - 2024.06) ️</li>
              </ul>
